@@ -1,0 +1,442 @@
+---
+triple:          'armv7-apple-darwin'
+binary-path:     '/Users/drewhodges/PodcastFix/PodcastsX/.theos/obj/debug/armv7/PodcastsX.dylib'
+relocations:
+  - { offset: 0x1E, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher connection:canAuthenticateAgainstProtectionSpace:]', symObjAddr: 0x0, symBinAddr: 0x42BB8, symSize: 0x88 }
+  - { offset: 0x33, size: 0x4, addend: 0x0, symName: _gOriginalIMPs, symObjAddr: 0x311B0, symBinAddr: 0x80028, symSize: 0x0 }
+  - { offset: 0xCD, size: 0x4, addend: 0x0, symName: '__logos_meta_orig$_ungrouped$NSURL$URLWithString$', symObjAddr: 0x311D8, symBinAddr: 0x80050, symSize: 0x0 }
+  - { offset: 0x14B, size: 0x4, addend: 0x0, symName: '__logos_meta_orig$_ungrouped$NSURL$URLWithString$relativeToURL$', symObjAddr: 0x311DC, symBinAddr: 0x80054, symSize: 0x0 }
+  - { offset: 0x1D1, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$NSURL$initWithString$', symObjAddr: 0x311E0, symBinAddr: 0x80058, symSize: 0x0 }
+  - { offset: 0x1FE, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$NSURL$initWithString$relativeToURL$', symObjAddr: 0x311E4, symBinAddr: 0x8005C, symSize: 0x0 }
+  - { offset: 0x230, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SUNetworkLockoutViewController$viewDidLoad', symObjAddr: 0x311E8, symBinAddr: 0x80060, symSize: 0x0 }
+  - { offset: 0x265, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SUNetworkLockoutViewController$viewWillAppear$', symObjAddr: 0x311EC, symBinAddr: 0x80064, symSize: 0x0 }
+  - { offset: 0x2A0, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SUPlaceholderViewController$viewWillAppear$', symObjAddr: 0x311F0, symBinAddr: 0x80068, symSize: 0x0 }
+  - { offset: 0x2DA, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SUClientController$loadSections', symObjAddr: 0x311F4, symBinAddr: 0x8006C, symSize: 0x0 }
+  - { offset: 0x30F, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SUClientController$sectionsDidLoad$', symObjAddr: 0x311F8, symBinAddr: 0x80070, symSize: 0x0 }
+  - { offset: 0x338, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SUClientController$sectionsDidFailWithError$', symObjAddr: 0x311FC, symBinAddr: 0x80074, symSize: 0x0 }
+  - { offset: 0x34A, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SUClientController$isStoreEnabled', symObjAddr: 0x31200, symBinAddr: 0x80078, symSize: 0x0 }
+  - { offset: 0x372, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SUClientController$bagDidLoadNotification$', symObjAddr: 0x31204, symBinAddr: 0x8007C, symSize: 0x0 }
+  - { offset: 0x384, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SUClientController$storeContentLanguage', symObjAddr: 0x31208, symBinAddr: 0x80080, symSize: 0x0 }
+  - { offset: 0x3AC, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$ISLoadURLBagOperation$run', symObjAddr: 0x3120C, symBinAddr: 0x80084, symSize: 0x0 }
+  - { offset: 0x3E1, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$ISLoadURLBagOperation$start', symObjAddr: 0x31210, symBinAddr: 0x80088, symSize: 0x0 }
+  - { offset: 0x3F3, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$ISLoadURLBagOperation$main', symObjAddr: 0x31214, symBinAddr: 0x8008C, symSize: 0x0 }
+  - { offset: 0x405, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SULoadSectionsOperation$start', symObjAddr: 0x31218, symBinAddr: 0x80090, symSize: 0x0 }
+  - { offset: 0x43A, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SULoadSectionsOperation$main', symObjAddr: 0x3121C, symBinAddr: 0x80094, symSize: 0x0 }
+  - { offset: 0x44C, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SULoadSectionsOperation$run', symObjAddr: 0x31220, symBinAddr: 0x80098, symSize: 0x0 }
+  - { offset: 0x45E, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SULoadSectionsOperation$_loadSectionsFromNetworkWithDictionary$', symObjAddr: 0x31224, symBinAddr: 0x8009C, symSize: 0x0 }
+  - { offset: 0x48C, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SULoadSectionsOperation$_loadSectionsFromCacheForVersion$', symObjAddr: 0x31228, symBinAddr: 0x800A0, symSize: 0x0 }
+  - { offset: 0x4B5, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SULoadSectionsOperation$_setSectionsResponse$', symObjAddr: 0x3122C, symBinAddr: 0x800A4, symSize: 0x0 }
+  - { offset: 0x4DE, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SULoadSectionsOperation$setShouldUseCache$', symObjAddr: 0x31230, symBinAddr: 0x800A8, symSize: 0x0 }
+  - { offset: 0x507, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SUWebView$loadArchive$', symObjAddr: 0x31234, symBinAddr: 0x800AC, symSize: 0x0 }
+  - { offset: 0x541, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SUWebView$loadRequest$', symObjAddr: 0x31238, symBinAddr: 0x800B0, symSize: 0x0 }
+  - { offset: 0x59C, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SUWebView$loadHTMLString$baseURL$', symObjAddr: 0x3123C, symBinAddr: 0x800B4, symSize: 0x0 }
+  - { offset: 0x5CA, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SUWebView$stopLoading', symObjAddr: 0x31240, symBinAddr: 0x800B8, symSize: 0x0 }
+  - { offset: 0x5EE, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SUScriptViewController$viewDidLoad', symObjAddr: 0x31244, symBinAddr: 0x800BC, symSize: 0x0 }
+  - { offset: 0x623, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SUScriptViewController$viewWillAppear$', symObjAddr: 0x31248, symBinAddr: 0x800C0, symSize: 0x0 }
+  - { offset: 0x64C, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SUStorePageViewController$viewDidLoad', symObjAddr: 0x3124C, symBinAddr: 0x800C4, symSize: 0x0 }
+  - { offset: 0x681, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SUStorePageViewController$viewWillAppear$', symObjAddr: 0x31250, symBinAddr: 0x800C8, symSize: 0x0 }
+  - { offset: 0x6AA, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$UIAlertView$show', symObjAddr: 0x31254, symBinAddr: 0x800CC, symSize: 0x0 }
+  - { offset: 0x6D19, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$UIWebView$loadRequest$', symObjAddr: 0x31258, symBinAddr: 0x800D0, symSize: 0x0 }
+  - { offset: 0x6E73, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$UIWebView$loadHTMLString$baseURL$', symObjAddr: 0x3125C, symBinAddr: 0x800D4, symSize: 0x0 }
+  - { offset: 0x6EA1, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$MPMoviePlayerController$initWithContentURL$', symObjAddr: 0x31260, symBinAddr: 0x800D8, symSize: 0x0 }
+  - { offset: 0x6FB8, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$MPMoviePlayerController$setContentURL$', symObjAddr: 0x31264, symBinAddr: 0x800DC, symSize: 0x0 }
+  - { offset: 0x6FE6, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$MPMoviePlayerController$play', symObjAddr: 0x31268, symBinAddr: 0x800E0, symSize: 0x0 }
+  - { offset: 0x700A, size: 0x4, addend: 0x0, symName: '__logos_meta_orig$_ungrouped$AVPlayer$playerWithURL$', symObjAddr: 0x3126C, symBinAddr: 0x800E4, symSize: 0x0 }
+  - { offset: 0x7037, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$AVPlayer$initWithURL$', symObjAddr: 0x31270, symBinAddr: 0x800E8, symSize: 0x0 }
+  - { offset: 0x710C, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$AVPlayer$play', symObjAddr: 0x31274, symBinAddr: 0x800EC, symSize: 0x0 }
+  - { offset: 0x7135, size: 0x4, addend: 0x0, symName: '__logos_meta_orig$_ungrouped$AVPlayerItem$playerItemWithURL$', symObjAddr: 0x31278, symBinAddr: 0x800F0, symSize: 0x0 }
+  - { offset: 0x7147, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$AVPlayerItem$initWithURL$', symObjAddr: 0x3127C, symBinAddr: 0x800F4, symSize: 0x0 }
+  - { offset: 0x71C9, size: 0x4, addend: 0x0, symName: '__logos_meta_orig$_ungrouped$AVURLAsset$URLAssetWithURL$options$', symObjAddr: 0x31280, symBinAddr: 0x800F8, symSize: 0x0 }
+  - { offset: 0x71FB, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$AVURLAsset$initWithURL$options$', symObjAddr: 0x31284, symBinAddr: 0x800FC, symSize: 0x0 }
+  - { offset: 0x735E, size: 0x4, addend: 0x0, symName: '__logos_meta_orig$_ungrouped$NSURLRequest$requestWithURL$', symObjAddr: 0x31288, symBinAddr: 0x80100, symSize: 0x0 }
+  - { offset: 0x7370, size: 0x4, addend: 0x0, symName: '__logos_meta_orig$_ungrouped$NSURLRequest$requestWithURL$cachePolicy$timeoutInterval$', symObjAddr: 0x3128C, symBinAddr: 0x80104, symSize: 0x0 }
+  - { offset: 0x73B2, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$NSURLRequest$initWithURL$', symObjAddr: 0x31290, symBinAddr: 0x80108, symSize: 0x0 }
+  - { offset: 0x73DF, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$NSURLRequest$initWithURL$cachePolicy$timeoutInterval$', symObjAddr: 0x31294, symBinAddr: 0x8010C, symSize: 0x0 }
+  - { offset: 0x7416, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$NSMutableURLRequest$setURL$', symObjAddr: 0x31298, symBinAddr: 0x80110, symSize: 0x0 }
+  - { offset: 0x745C, size: 0x4, addend: 0x0, symName: '__logos_meta_orig$_ungrouped$NSURLConnection$sendSynchronousRequest$returningResponse$error$', symObjAddr: 0x3129C, symBinAddr: 0x80114, symSize: 0x0 }
+  - { offset: 0x74E5, size: 0x4, addend: 0x0, symName: '__logos_meta_orig$_ungrouped$NSURLConnection$connectionWithRequest$delegate$', symObjAddr: 0x312A0, symBinAddr: 0x80118, symSize: 0x0 }
+  - { offset: 0x7549, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$NSURLConnection$initWithRequest$delegate$', symObjAddr: 0x312A4, symBinAddr: 0x8011C, symSize: 0x0 }
+  - { offset: 0x757B, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$NSURLConnection$initWithRequest$delegate$startImmediately$', symObjAddr: 0x312A8, symBinAddr: 0x80120, symSize: 0x0 }
+  - { offset: 0x75B2, size: 0x4, addend: 0x0, symName: '__logos_meta_orig$_ungrouped$AVAsset$assetWithURL$', symObjAddr: 0x312AC, symBinAddr: 0x80124, symSize: 0x0 }
+  - { offset: 0x75C4, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SSDownload$url', symObjAddr: 0x312B0, symBinAddr: 0x80128, symSize: 0x0 }
+  - { offset: 0x75FD, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SSDownload$resume', symObjAddr: 0x312B4, symBinAddr: 0x8012C, symSize: 0x0 }
+  - { offset: 0x7621, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SSDownload$stop', symObjAddr: 0x312B8, symBinAddr: 0x80130, symSize: 0x0 }
+  - { offset: 0x7633, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SSDownload$setState$', symObjAddr: 0x312BC, symBinAddr: 0x80134, symSize: 0x0 }
+  - { offset: 0x765C, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$NSURLDownload$initWithRequest$delegate$', symObjAddr: 0x312C0, symBinAddr: 0x80138, symSize: 0x0 }
+  - { offset: 0x769A, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SSURLConnectionRequest$initWithRequest$', symObjAddr: 0x312C4, symBinAddr: 0x8013C, symSize: 0x0 }
+  - { offset: 0x76D3, size: 0x4, addend: 0x0, symName: '__logos_orig$_ungrouped$SSURLConnectionRequest$setRequest$', symObjAddr: 0x312C8, symBinAddr: 0x80140, symSize: 0x0 }
+  - { offset: 0x7701, size: 0x4, addend: 0x0, symName: _orig_SSLSetProtocolVersionMax, symObjAddr: 0x311CC, symBinAddr: 0x80044, symSize: 0x0 }
+  - { offset: 0x77AD, size: 0x4, addend: 0x0, symName: _orig_SSLSetProtocolVersionMin, symObjAddr: 0x311D0, symBinAddr: 0x80048, symSize: 0x0 }
+  - { offset: 0x77BF, size: 0x4, addend: 0x0, symName: _orig_SSLHandshake, symObjAddr: 0x311D4, symBinAddr: 0x8004C, symSize: 0x0 }
+  - { offset: 0x77E2, size: 0x4, addend: 0x0, symName: _orig_CFHTTPMessageCreateRequest, symObjAddr: 0x311C4, symBinAddr: 0x8003C, symSize: 0x0 }
+  - { offset: 0x787D, size: 0x4, addend: 0x0, symName: _orig_connect, symObjAddr: 0x311C8, symBinAddr: 0x80040, symSize: 0x0 }
+  - { offset: 0x7929, size: 0x4, addend: 0x0, symName: _orig_SecTrustEvaluate, symObjAddr: 0x311C0, symBinAddr: 0x80038, symSize: 0x0 }
+  - { offset: 0x7981, size: 0x4, addend: 0x0, symName: _gPodcastsXLaunchTime, symObjAddr: 0x311B8, symBinAddr: 0x80030, symSize: 0x0 }
+  - { offset: 0x7993, size: 0x4, addend: 0x0, symName: _orig_NSURLRequestAllowsAnyHTTPSCertificateForHost, symObjAddr: 0x312CC, symBinAddr: 0x80144, symSize: 0x0 }
+  - { offset: 0x79C0, size: 0x4, addend: 0x0, symName: _orig_NSURLConnectionAllowsAnyHTTPSCertificateForHost, symObjAddr: 0x312D0, symBinAddr: 0x80148, symSize: 0x0 }
+  - { offset: 0x79C5, size: 0x4, addend: 0x0, symName: _startProxyServer, symObjAddr: 0x2338, symBinAddr: 0x44EF0, symSize: 0x4E }
+  - { offset: 0x79C9, size: 0x4, addend: 0x0, symName: _dumpClassMethods, symObjAddr: 0x2386, symBinAddr: 0x44F3E, symSize: 0x19A }
+  - { offset: 0x79E5, size: 0x4, addend: 0x0, symName: _startProxyServer.started, symObjAddr: 0x312D4, symBinAddr: 0x8014C, symSize: 0x0 }
+  - { offset: 0x79EB, size: 0x4, addend: 0x0, symName: ___startProxyServer_block_invoke, symObjAddr: 0x6AFC, symBinAddr: 0x496B4, symSize: 0x24C }
+  - { offset: 0x79EF, size: 0x4, addend: 0x0, symName: _podcastxProxyPort, symObjAddr: 0x6D48, symBinAddr: 0x49900, symSize: 0x50 }
+  - { offset: 0x7A0F, size: 0x4, addend: 0x0, symName: _gPodcastsXLaunchTime_block_invoke.proxySem, symObjAddr: 0x312D8, symBinAddr: 0x80150, symSize: 0x0 }
+  - { offset: 0x7A21, size: 0x4, addend: 0x0, symName: _gPodcastsXLaunchTime_block_invoke.once, symObjAddr: 0x312DC, symBinAddr: 0x80154, symSize: 0x0 }
+  - { offset: 0x7AD8, size: 0x4, addend: 0x0, symName: _podcastxProxyPort, symObjAddr: 0x6D48, symBinAddr: 0x49900, symSize: 0x50 }
+  - { offset: 0x7ADC, size: 0x4, addend: 0x0, symName: ___startProxyServer_block_invoke_2, symObjAddr: 0x6D98, symBinAddr: 0x49950, symSize: 0x32 }
+  - { offset: 0x7AFC, size: 0x4, addend: 0x0, symName: _podcastxProxyPort.port, symObjAddr: 0x312E0, symBinAddr: 0x80158, symSize: 0x0 }
+  - { offset: 0x7B0E, size: 0x4, addend: 0x0, symName: _podcastxProxyPort.once, symObjAddr: 0x312E4, symBinAddr: 0x8015C, symSize: 0x0 }
+  - { offset: 0x7B36, size: 0x4, addend: 0x0, symName: _handleProxyClient, symObjAddr: 0x6E00, symBinAddr: 0x499B8, symSize: 0x165A }
+  - { offset: 0x7B3A, size: 0x4, addend: 0x0, symName: ___podcastxProxyPort_block_invoke, symObjAddr: 0x845A, symBinAddr: 0x4B012, symSize: 0x9E }
+  - { offset: 0x7B56, size: 0x4, addend: 0x0, symName: _handleProxyClient.mediaStreamSem, symObjAddr: 0x312E8, symBinAddr: 0x80160, symSize: 0x0 }
+  - { offset: 0x7B68, size: 0x4, addend: 0x0, symName: _handleProxyClient.mediaOnce, symObjAddr: 0x312EC, symBinAddr: 0x80164, symSize: 0x0 }
+  - { offset: 0x80AC, size: 0x4, addend: 0x0, symName: _gPodcastsXBypassURLCreationHooks, symObjAddr: 0x312F0, symBinAddr: 0x80168, symSize: 0x0 }
+  - { offset: 0x80BD, size: 0x4, addend: 0x0, symName: _gPodcastsXBypassRequestHooks, symObjAddr: 0x312F1, symBinAddr: 0x80169, symSize: 0x0 }
+  - { offset: 0x83D3, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher connection:canAuthenticateAgainstProtectionSpace:]', symObjAddr: 0x0, symBinAddr: 0x42BB8, symSize: 0x88 }
+  - { offset: 0x83D7, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher connection:willSendRequestForAuthenticationChallenge:]', symObjAddr: 0x88, symBinAddr: 0x42C40, symSize: 0x96 }
+  - { offset: 0x8424, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher connection:willSendRequestForAuthenticationChallenge:]', symObjAddr: 0x88, symBinAddr: 0x42C40, symSize: 0x96 }
+  - { offset: 0x8428, size: 0x4, addend: 0x0, symName: _acceptServerTrustChallenge, symObjAddr: 0x11E, symBinAddr: 0x42CD6, symSize: 0x1B0 }
+  - { offset: 0x8471, size: 0x4, addend: 0x0, symName: _acceptServerTrustChallenge, symObjAddr: 0x11E, symBinAddr: 0x42CD6, symSize: 0x1B0 }
+  - { offset: 0x8475, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher connection:didReceiveAuthenticationChallenge:]', symObjAddr: 0x2CE, symBinAddr: 0x42E86, symSize: 0x96 }
+  - { offset: 0x84C5, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher connection:didReceiveAuthenticationChallenge:]', symObjAddr: 0x2CE, symBinAddr: 0x42E86, symSize: 0x96 }
+  - { offset: 0x84C9, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher connection:willSendRequest:redirectResponse:]', symObjAddr: 0x364, symBinAddr: 0x42F1C, symSize: 0xDE }
+  - { offset: 0x8512, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher connection:willSendRequest:redirectResponse:]', symObjAddr: 0x364, symBinAddr: 0x42F1C, symSize: 0xDE }
+  - { offset: 0x8516, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher connection:didReceiveResponse:]', symObjAddr: 0x442, symBinAddr: 0x42FFA, symSize: 0x56 }
+  - { offset: 0x8571, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher connection:didReceiveResponse:]', symObjAddr: 0x442, symBinAddr: 0x42FFA, symSize: 0x56 }
+  - { offset: 0x8575, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher connection:didFailWithError:]', symObjAddr: 0x498, symBinAddr: 0x43050, symSize: 0x6C }
+  - { offset: 0x85BE, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher connection:didFailWithError:]', symObjAddr: 0x498, symBinAddr: 0x43050, symSize: 0x6C }
+  - { offset: 0x85C2, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher connectionDidFinishLoading:]', symObjAddr: 0x504, symBinAddr: 0x430BC, symSize: 0x42 }
+  - { offset: 0x860B, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher connectionDidFinishLoading:]', symObjAddr: 0x504, symBinAddr: 0x430BC, symSize: 0x42 }
+  - { offset: 0x860F, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher redirectURL]', symObjAddr: 0x546, symBinAddr: 0x430FE, symSize: 0xE }
+  - { offset: 0x864A, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher redirectURL]', symObjAddr: 0x546, symBinAddr: 0x430FE, symSize: 0xE }
+  - { offset: 0x864E, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher setRedirectURL:]', symObjAddr: 0x554, symBinAddr: 0x4310C, symSize: 0x1A }
+  - { offset: 0x8680, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher setRedirectURL:]', symObjAddr: 0x554, symBinAddr: 0x4310C, symSize: 0x1A }
+  - { offset: 0x8684, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher response]', symObjAddr: 0x56E, symBinAddr: 0x43126, symSize: 0xE }
+  - { offset: 0x86BE, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher response]', symObjAddr: 0x56E, symBinAddr: 0x43126, symSize: 0xE }
+  - { offset: 0x86C2, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher setResponse:]', symObjAddr: 0x57C, symBinAddr: 0x43134, symSize: 0x1A }
+  - { offset: 0x86F4, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher setResponse:]', symObjAddr: 0x57C, symBinAddr: 0x43134, symSize: 0x1A }
+  - { offset: 0x86F8, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher error]', symObjAddr: 0x596, symBinAddr: 0x4314E, symSize: 0xE }
+  - { offset: 0x8732, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher error]', symObjAddr: 0x596, symBinAddr: 0x4314E, symSize: 0xE }
+  - { offset: 0x8736, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher setError:]', symObjAddr: 0x5A4, symBinAddr: 0x4315C, symSize: 0x1A }
+  - { offset: 0x8768, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher setError:]', symObjAddr: 0x5A4, symBinAddr: 0x4315C, symSize: 0x1A }
+  - { offset: 0x876C, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher done]', symObjAddr: 0x5BE, symBinAddr: 0x43176, symSize: 0x10 }
+  - { offset: 0x87A6, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher done]', symObjAddr: 0x5BE, symBinAddr: 0x43176, symSize: 0x10 }
+  - { offset: 0x87AA, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher setDone:]', symObjAddr: 0x5CE, symBinAddr: 0x43186, symSize: 0x16 }
+  - { offset: 0x87DC, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher setDone:]', symObjAddr: 0x5CE, symBinAddr: 0x43186, symSize: 0x16 }
+  - { offset: 0x87E0, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher .cxx_destruct]', symObjAddr: 0x5E4, symBinAddr: 0x4319C, symSize: 0x2E }
+  - { offset: 0x881A, size: 0x4, addend: 0x0, symName: '-[PodcastsXRedirectCatcher .cxx_destruct]', symObjAddr: 0x5E4, symBinAddr: 0x4319C, symSize: 0x2E }
+  - { offset: 0x881E, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher init]', symObjAddr: 0x612, symBinAddr: 0x431CA, symSize: 0x98 }
+  - { offset: 0x884C, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher init]', symObjAddr: 0x612, symBinAddr: 0x431CA, symSize: 0x98 }
+  - { offset: 0x8850, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher connection:canAuthenticateAgainstProtectionSpace:]', symObjAddr: 0x6AA, symBinAddr: 0x43262, symSize: 0x88 }
+  - { offset: 0x8881, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher connection:canAuthenticateAgainstProtectionSpace:]', symObjAddr: 0x6AA, symBinAddr: 0x43262, symSize: 0x88 }
+  - { offset: 0x8885, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher connection:willSendRequestForAuthenticationChallenge:]', symObjAddr: 0x732, symBinAddr: 0x432EA, symSize: 0x96 }
+  - { offset: 0x88D2, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher connection:willSendRequestForAuthenticationChallenge:]', symObjAddr: 0x732, symBinAddr: 0x432EA, symSize: 0x96 }
+  - { offset: 0x88D6, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher connection:didReceiveAuthenticationChallenge:]', symObjAddr: 0x7C8, symBinAddr: 0x43380, symSize: 0x96 }
+  - { offset: 0x891F, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher connection:didReceiveAuthenticationChallenge:]', symObjAddr: 0x7C8, symBinAddr: 0x43380, symSize: 0x96 }
+  - { offset: 0x8923, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher connection:didReceiveResponse:]', symObjAddr: 0x85E, symBinAddr: 0x43416, symSize: 0x88 }
+  - { offset: 0x896C, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher connection:didReceiveResponse:]', symObjAddr: 0x85E, symBinAddr: 0x43416, symSize: 0x88 }
+  - { offset: 0x8970, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher connection:didReceiveData:]', symObjAddr: 0x8E6, symBinAddr: 0x4349E, symSize: 0x74 }
+  - { offset: 0x89B9, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher connection:didReceiveData:]', symObjAddr: 0x8E6, symBinAddr: 0x4349E, symSize: 0x74 }
+  - { offset: 0x89BD, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher connection:didFailWithError:]', symObjAddr: 0x95A, symBinAddr: 0x43512, symSize: 0x6C }
+  - { offset: 0x8A06, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher connection:didFailWithError:]', symObjAddr: 0x95A, symBinAddr: 0x43512, symSize: 0x6C }
+  - { offset: 0x8A0A, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher connectionDidFinishLoading:]', symObjAddr: 0x9C6, symBinAddr: 0x4357E, symSize: 0x42 }
+  - { offset: 0x8A53, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher connectionDidFinishLoading:]', symObjAddr: 0x9C6, symBinAddr: 0x4357E, symSize: 0x42 }
+  - { offset: 0x8A57, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher data]', symObjAddr: 0xA08, symBinAddr: 0x435C0, symSize: 0xE }
+  - { offset: 0x8A94, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher data]', symObjAddr: 0xA08, symBinAddr: 0x435C0, symSize: 0xE }
+  - { offset: 0x8A98, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher setData:]', symObjAddr: 0xA16, symBinAddr: 0x435CE, symSize: 0x1A }
+  - { offset: 0x8ACA, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher setData:]', symObjAddr: 0xA16, symBinAddr: 0x435CE, symSize: 0x1A }
+  - { offset: 0x8ACE, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher response]', symObjAddr: 0xA30, symBinAddr: 0x435E8, symSize: 0xE }
+  - { offset: 0x8B08, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher response]', symObjAddr: 0xA30, symBinAddr: 0x435E8, symSize: 0xE }
+  - { offset: 0x8B0C, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher setResponse:]', symObjAddr: 0xA3E, symBinAddr: 0x435F6, symSize: 0x1A }
+  - { offset: 0x8B3E, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher setResponse:]', symObjAddr: 0xA3E, symBinAddr: 0x435F6, symSize: 0x1A }
+  - { offset: 0x8B42, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher error]', symObjAddr: 0xA58, symBinAddr: 0x43610, symSize: 0xE }
+  - { offset: 0x8B7C, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher error]', symObjAddr: 0xA58, symBinAddr: 0x43610, symSize: 0xE }
+  - { offset: 0x8B80, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher setError:]', symObjAddr: 0xA66, symBinAddr: 0x4361E, symSize: 0x1A }
+  - { offset: 0x8BB2, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher setError:]', symObjAddr: 0xA66, symBinAddr: 0x4361E, symSize: 0x1A }
+  - { offset: 0x8BB6, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher done]', symObjAddr: 0xA80, symBinAddr: 0x43638, symSize: 0x10 }
+  - { offset: 0x8BF0, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher done]', symObjAddr: 0xA80, symBinAddr: 0x43638, symSize: 0x10 }
+  - { offset: 0x8BF4, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher setDone:]', symObjAddr: 0xA90, symBinAddr: 0x43648, symSize: 0x16 }
+  - { offset: 0x8C26, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher setDone:]', symObjAddr: 0xA90, symBinAddr: 0x43648, symSize: 0x16 }
+  - { offset: 0x8C2A, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher .cxx_destruct]', symObjAddr: 0xAA6, symBinAddr: 0x4365E, symSize: 0x2E }
+  - { offset: 0x8C64, size: 0x4, addend: 0x0, symName: '-[PodcastsXDataFetcher .cxx_destruct]', symObjAddr: 0xAA6, symBinAddr: 0x4365E, symSize: 0x2E }
+  - { offset: 0x8C68, size: 0x4, addend: 0x0, symName: '+[PodcastsXStoreURLProtocol canInitWithRequest:]', symObjAddr: 0xAD4, symBinAddr: 0x4368C, symSize: 0x1D0 }
+  - { offset: 0x8C96, size: 0x4, addend: 0x0, symName: '+[PodcastsXStoreURLProtocol canInitWithRequest:]', symObjAddr: 0xAD4, symBinAddr: 0x4368C, symSize: 0x1D0 }
+  - { offset: 0x8C9A, size: 0x4, addend: 0x0, symName: _storeRewriteString, symObjAddr: 0xCA4, symBinAddr: 0x4385C, symSize: 0x546 }
+  - { offset: 0x8D0A, size: 0x4, addend: 0x0, symName: _storeRewriteString, symObjAddr: 0xCA4, symBinAddr: 0x4385C, symSize: 0x546 }
+  - { offset: 0x8D0E, size: 0x4, addend: 0x0, symName: '+[PodcastsXStoreURLProtocol canonicalRequestForRequest:]', symObjAddr: 0x11EA, symBinAddr: 0x43DA2, symSize: 0x42 }
+  - { offset: 0x8DD6, size: 0x4, addend: 0x0, symName: '+[PodcastsXStoreURLProtocol canonicalRequestForRequest:]', symObjAddr: 0x11EA, symBinAddr: 0x43DA2, symSize: 0x42 }
+  - { offset: 0x8DDA, size: 0x4, addend: 0x0, symName: '-[PodcastsXStoreURLProtocol startLoading]', symObjAddr: 0x122C, symBinAddr: 0x43DE4, symSize: 0x21E }
+  - { offset: 0x8E1B, size: 0x4, addend: 0x0, symName: '-[PodcastsXStoreURLProtocol startLoading]', symObjAddr: 0x122C, symBinAddr: 0x43DE4, symSize: 0x21E }
+  - { offset: 0x8E1F, size: 0x4, addend: 0x0, symName: _appendLog, symObjAddr: 0x144A, symBinAddr: 0x44002, symSize: 0x124 }
+  - { offset: 0x8E7A, size: 0x4, addend: 0x0, symName: _appendLog, symObjAddr: 0x144A, symBinAddr: 0x44002, symSize: 0x124 }
+  - { offset: 0x8E7E, size: 0x4, addend: 0x0, symName: '-[PodcastsXStoreURLProtocol stopLoading]', symObjAddr: 0x156E, symBinAddr: 0x44126, symSize: 0x52 }
+  - { offset: 0x8EB7, size: 0x4, addend: 0x0, symName: '-[PodcastsXStoreURLProtocol stopLoading]', symObjAddr: 0x156E, symBinAddr: 0x44126, symSize: 0x52 }
+  - { offset: 0x8EBB, size: 0x4, addend: 0x0, symName: '-[PodcastsXStoreURLProtocol connection:didReceiveResponse:]', symObjAddr: 0x15C0, symBinAddr: 0x44178, symSize: 0x7E }
+  - { offset: 0x8EE9, size: 0x4, addend: 0x0, symName: '-[PodcastsXStoreURLProtocol connection:didReceiveResponse:]', symObjAddr: 0x15C0, symBinAddr: 0x44178, symSize: 0x7E }
+  - { offset: 0x8EED, size: 0x4, addend: 0x0, symName: '-[PodcastsXStoreURLProtocol connection:didReceiveData:]', symObjAddr: 0x163E, symBinAddr: 0x441F6, symSize: 0x76 }
+  - { offset: 0x8F39, size: 0x4, addend: 0x0, symName: '-[PodcastsXStoreURLProtocol connection:didReceiveData:]', symObjAddr: 0x163E, symBinAddr: 0x441F6, symSize: 0x76 }
+  - { offset: 0x8F3D, size: 0x4, addend: 0x0, symName: '-[PodcastsXStoreURLProtocol connectionDidFinishLoading:]', symObjAddr: 0x16B4, symBinAddr: 0x4426C, symSize: 0x5E }
+  - { offset: 0x8F89, size: 0x4, addend: 0x0, symName: '-[PodcastsXStoreURLProtocol connectionDidFinishLoading:]', symObjAddr: 0x16B4, symBinAddr: 0x4426C, symSize: 0x5E }
+  - { offset: 0x8F8D, size: 0x4, addend: 0x0, symName: '-[PodcastsXStoreURLProtocol connection:willSendRequestForAuthenticationChallenge:]', symObjAddr: 0x1712, symBinAddr: 0x442CA, symSize: 0x96 }
+  - { offset: 0x8FCA, size: 0x4, addend: 0x0, symName: '-[PodcastsXStoreURLProtocol connection:willSendRequestForAuthenticationChallenge:]', symObjAddr: 0x1712, symBinAddr: 0x442CA, symSize: 0x96 }
+  - { offset: 0x8FCE, size: 0x4, addend: 0x0, symName: '-[PodcastsXStoreURLProtocol connection:didReceiveAuthenticationChallenge:]', symObjAddr: 0x17A8, symBinAddr: 0x44360, symSize: 0x96 }
+  - { offset: 0x901A, size: 0x4, addend: 0x0, symName: '-[PodcastsXStoreURLProtocol connection:didReceiveAuthenticationChallenge:]', symObjAddr: 0x17A8, symBinAddr: 0x44360, symSize: 0x96 }
+  - { offset: 0x901E, size: 0x4, addend: 0x0, symName: '-[PodcastsXStoreURLProtocol connection:didFailWithError:]', symObjAddr: 0x183E, symBinAddr: 0x443F6, symSize: 0xB0 }
+  - { offset: 0x906A, size: 0x4, addend: 0x0, symName: '-[PodcastsXStoreURLProtocol connection:didFailWithError:]', symObjAddr: 0x183E, symBinAddr: 0x443F6, symSize: 0xB0 }
+  - { offset: 0x906E, size: 0x4, addend: 0x0, symName: '-[PodcastsXStoreURLProtocol connection]', symObjAddr: 0x18EE, symBinAddr: 0x444A6, symSize: 0x1C }
+  - { offset: 0x90BA, size: 0x4, addend: 0x0, symName: '-[PodcastsXStoreURLProtocol connection]', symObjAddr: 0x18EE, symBinAddr: 0x444A6, symSize: 0x1C }
+  - { offset: 0x90BE, size: 0x4, addend: 0x0, symName: '-[PodcastsXStoreURLProtocol setConnection:]', symObjAddr: 0x190A, symBinAddr: 0x444C2, symSize: 0x26 }
+  - { offset: 0x90F1, size: 0x4, addend: 0x0, symName: '-[PodcastsXStoreURLProtocol setConnection:]', symObjAddr: 0x190A, symBinAddr: 0x444C2, symSize: 0x26 }
+  - { offset: 0x90F5, size: 0x4, addend: 0x0, symName: '-[PodcastsXStoreURLProtocol .cxx_destruct]', symObjAddr: 0x1930, symBinAddr: 0x444E8, symSize: 0x24 }
+  - { offset: 0x9130, size: 0x4, addend: 0x0, symName: '-[PodcastsXStoreURLProtocol .cxx_destruct]', symObjAddr: 0x1930, symBinAddr: 0x444E8, symSize: 0x24 }
+  - { offset: 0x9134, size: 0x4, addend: 0x0, symName: __logosLocalCtor_f9728793, symObjAddr: 0x1954, symBinAddr: 0x4450C, symSize: 0x3B8 }
+  - { offset: 0x9163, size: 0x4, addend: 0x0, symName: __logosLocalCtor_f9728793, symObjAddr: 0x1954, symBinAddr: 0x4450C, symSize: 0x3B8 }
+  - { offset: 0x9167, size: 0x4, addend: 0x0, symName: _installHTTPSCertificateBypassMethods, symObjAddr: 0x1D0C, symBinAddr: 0x448C4, symSize: 0xE8 }
+  - { offset: 0x91B3, size: 0x4, addend: 0x0, symName: _installHTTPSCertificateBypassMethods, symObjAddr: 0x1D0C, symBinAddr: 0x448C4, symSize: 0xE8 }
+  - { offset: 0x91B7, size: 0x4, addend: 0x0, symName: _my_SecTrustEvaluate, symObjAddr: 0x1DF4, symBinAddr: 0x449AC, symSize: 0x92 }
+  - { offset: 0x9212, size: 0x4, addend: 0x0, symName: _my_SecTrustEvaluate, symObjAddr: 0x1DF4, symBinAddr: 0x449AC, symSize: 0x92 }
+  - { offset: 0x9216, size: 0x4, addend: 0x0, symName: _my_CFHTTPMessageCreateRequest, symObjAddr: 0x1E86, symBinAddr: 0x44A3E, symSize: 0x1D0 }
+  - { offset: 0x9257, size: 0x4, addend: 0x0, symName: _my_CFHTTPMessageCreateRequest, symObjAddr: 0x1E86, symBinAddr: 0x44A3E, symSize: 0x1D0 }
+  - { offset: 0x925B, size: 0x4, addend: 0x0, symName: _my_connect, symObjAddr: 0x2056, symBinAddr: 0x44C0E, symSize: 0x14E }
+  - { offset: 0x92FB, size: 0x4, addend: 0x0, symName: _my_connect, symObjAddr: 0x2056, symBinAddr: 0x44C0E, symSize: 0x14E }
+  - { offset: 0x92FF, size: 0x4, addend: 0x0, symName: _my_SSLSetProtocolVersionMax, symObjAddr: 0x21A4, symBinAddr: 0x44D5C, symSize: 0xB8 }
+  - { offset: 0x93B2, size: 0x4, addend: 0x0, symName: _my_SSLSetProtocolVersionMax, symObjAddr: 0x21A4, symBinAddr: 0x44D5C, symSize: 0xB8 }
+  - { offset: 0x93B6, size: 0x4, addend: 0x0, symName: _my_SSLSetProtocolVersionMin, symObjAddr: 0x225C, symBinAddr: 0x44E14, symSize: 0x5A }
+  - { offset: 0x93F7, size: 0x4, addend: 0x0, symName: _my_SSLSetProtocolVersionMin, symObjAddr: 0x225C, symBinAddr: 0x44E14, symSize: 0x5A }
+  - { offset: 0x93FB, size: 0x4, addend: 0x0, symName: _my_SSLHandshake, symObjAddr: 0x22B6, symBinAddr: 0x44E6E, symSize: 0x82 }
+  - { offset: 0x942D, size: 0x4, addend: 0x0, symName: _my_SSLHandshake, symObjAddr: 0x22B6, symBinAddr: 0x44E6E, symSize: 0x82 }
+  - { offset: 0x9431, size: 0x4, addend: 0x0, symName: _startProxyServer, symObjAddr: 0x2338, symBinAddr: 0x44EF0, symSize: 0x4E }
+  - { offset: 0x9463, size: 0x4, addend: 0x0, symName: _dumpClassMethods, symObjAddr: 0x2386, symBinAddr: 0x44F3E, symSize: 0x19A }
+  - { offset: 0x9467, size: 0x4, addend: 0x0, symName: ____logosLocalCtor_f9728793_block_invoke, symObjAddr: 0x2520, symBinAddr: 0x450D8, symSize: 0x112 }
+  - { offset: 0x94D4, size: 0x4, addend: 0x0, symName: ____logosLocalCtor_f9728793_block_invoke, symObjAddr: 0x2520, symBinAddr: 0x450D8, symSize: 0x112 }
+  - { offset: 0x94D8, size: 0x4, addend: 0x0, symName: ____logosLocalCtor_f9728793_block_invoke_2, symObjAddr: 0x2632, symBinAddr: 0x451EA, symSize: 0xDA }
+  - { offset: 0x9533, size: 0x4, addend: 0x0, symName: ____logosLocalCtor_f9728793_block_invoke_2, symObjAddr: 0x2632, symBinAddr: 0x451EA, symSize: 0xDA }
+  - { offset: 0x9537, size: 0x4, addend: 0x0, symName: ____logosLocalCtor_f9728793_block_invoke_3, symObjAddr: 0x270C, symBinAddr: 0x452C4, symSize: 0xC2 }
+  - { offset: 0x9583, size: 0x4, addend: 0x0, symName: ____logosLocalCtor_f9728793_block_invoke_3, symObjAddr: 0x270C, symBinAddr: 0x452C4, symSize: 0xC2 }
+  - { offset: 0x9587, size: 0x4, addend: 0x0, symName: __logosLocalInit, symObjAddr: 0x27CE, symBinAddr: 0x45386, symSize: 0xAB0 }
+  - { offset: 0x95D3, size: 0x4, addend: 0x0, symName: __logosLocalInit, symObjAddr: 0x27CE, symBinAddr: 0x45386, symSize: 0xAB0 }
+  - { offset: 0x95D7, size: 0x4, addend: 0x0, symName: '__logos_meta_method$_ungrouped$NSURL$URLWithString$', symObjAddr: 0x327E, symBinAddr: 0x45E36, symSize: 0x8A }
+  - { offset: 0x97B0, size: 0x4, addend: 0x0, symName: '__logos_meta_method$_ungrouped$NSURL$URLWithString$', symObjAddr: 0x327E, symBinAddr: 0x45E36, symSize: 0x8A }
+  - { offset: 0x97B4, size: 0x4, addend: 0x0, symName: '__logos_meta_method$_ungrouped$NSURL$URLWithString$relativeToURL$', symObjAddr: 0x3308, symBinAddr: 0x45EC0, symSize: 0xA6 }
+  - { offset: 0x97F5, size: 0x4, addend: 0x0, symName: '__logos_meta_method$_ungrouped$NSURL$URLWithString$relativeToURL$', symObjAddr: 0x3308, symBinAddr: 0x45EC0, symSize: 0xA6 }
+  - { offset: 0x97F9, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$NSURL$initWithString$', symObjAddr: 0x33AE, symBinAddr: 0x45F66, symSize: 0x8C }
+  - { offset: 0x9849, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$NSURL$initWithString$', symObjAddr: 0x33AE, symBinAddr: 0x45F66, symSize: 0x8C }
+  - { offset: 0x984D, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$NSURL$initWithString$relativeToURL$', symObjAddr: 0x343A, symBinAddr: 0x45FF2, symSize: 0xA6 }
+  - { offset: 0x988E, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$NSURL$initWithString$relativeToURL$', symObjAddr: 0x343A, symBinAddr: 0x45FF2, symSize: 0xA6 }
+  - { offset: 0x9892, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUNetworkLockoutViewController$viewDidLoad', symObjAddr: 0x34E0, symBinAddr: 0x46098, symSize: 0x2E }
+  - { offset: 0x98E2, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUNetworkLockoutViewController$viewDidLoad', symObjAddr: 0x34E0, symBinAddr: 0x46098, symSize: 0x2E }
+  - { offset: 0x98E6, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUNetworkLockoutViewController$viewWillAppear$', symObjAddr: 0x350E, symBinAddr: 0x460C6, symSize: 0x36 }
+  - { offset: 0x9914, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUNetworkLockoutViewController$viewWillAppear$', symObjAddr: 0x350E, symBinAddr: 0x460C6, symSize: 0x36 }
+  - { offset: 0x9918, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUPlaceholderViewController$viewWillAppear$', symObjAddr: 0x3544, symBinAddr: 0x460FC, symSize: 0x36 }
+  - { offset: 0x9955, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUPlaceholderViewController$viewWillAppear$', symObjAddr: 0x3544, symBinAddr: 0x460FC, symSize: 0x36 }
+  - { offset: 0x9959, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUClientController$loadSections', symObjAddr: 0x357A, symBinAddr: 0x46132, symSize: 0x2E }
+  - { offset: 0x9996, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUClientController$loadSections', symObjAddr: 0x357A, symBinAddr: 0x46132, symSize: 0x2E }
+  - { offset: 0x999A, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUClientController$sectionsDidLoad$', symObjAddr: 0x35A8, symBinAddr: 0x46160, symSize: 0x7A }
+  - { offset: 0x99C8, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUClientController$sectionsDidLoad$', symObjAddr: 0x35A8, symBinAddr: 0x46160, symSize: 0x7A }
+  - { offset: 0x99CC, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUClientController$sectionsDidFailWithError$', symObjAddr: 0x3622, symBinAddr: 0x461DA, symSize: 0x7A }
+  - { offset: 0x9A09, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUClientController$sectionsDidFailWithError$', symObjAddr: 0x3622, symBinAddr: 0x461DA, symSize: 0x7A }
+  - { offset: 0x9A0D, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUClientController$isStoreEnabled', symObjAddr: 0x369C, symBinAddr: 0x46254, symSize: 0x64 }
+  - { offset: 0x9A4A, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUClientController$isStoreEnabled', symObjAddr: 0x369C, symBinAddr: 0x46254, symSize: 0x64 }
+  - { offset: 0x9A4E, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUClientController$bagDidLoadNotification$', symObjAddr: 0x3700, symBinAddr: 0x462B8, symSize: 0x4E }
+  - { offset: 0x9A8F, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUClientController$bagDidLoadNotification$', symObjAddr: 0x3700, symBinAddr: 0x462B8, symSize: 0x4E }
+  - { offset: 0x9A93, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUClientController$storeContentLanguage', symObjAddr: 0x374E, symBinAddr: 0x46306, symSize: 0x7A }
+  - { offset: 0x9AD0, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUClientController$storeContentLanguage', symObjAddr: 0x374E, symBinAddr: 0x46306, symSize: 0x7A }
+  - { offset: 0x9AD4, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$ISLoadURLBagOperation$run', symObjAddr: 0x37C8, symBinAddr: 0x46380, symSize: 0x3C }
+  - { offset: 0x9B15, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$ISLoadURLBagOperation$run', symObjAddr: 0x37C8, symBinAddr: 0x46380, symSize: 0x3C }
+  - { offset: 0x9B19, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$ISLoadURLBagOperation$start', symObjAddr: 0x3804, symBinAddr: 0x463BC, symSize: 0x3C }
+  - { offset: 0x9B47, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$ISLoadURLBagOperation$start', symObjAddr: 0x3804, symBinAddr: 0x463BC, symSize: 0x3C }
+  - { offset: 0x9B4B, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$ISLoadURLBagOperation$main', symObjAddr: 0x3840, symBinAddr: 0x463F8, symSize: 0x3C }
+  - { offset: 0x9B79, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$ISLoadURLBagOperation$main', symObjAddr: 0x3840, symBinAddr: 0x463F8, symSize: 0x3C }
+  - { offset: 0x9B7D, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SULoadSectionsOperation$start', symObjAddr: 0x387C, symBinAddr: 0x46434, symSize: 0x16A }
+  - { offset: 0x9BAB, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SULoadSectionsOperation$start', symObjAddr: 0x387C, symBinAddr: 0x46434, symSize: 0x16A }
+  - { offset: 0x9BAF, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SULoadSectionsOperation$main', symObjAddr: 0x39E6, symBinAddr: 0x4659E, symSize: 0x3C }
+  - { offset: 0x9BEC, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SULoadSectionsOperation$main', symObjAddr: 0x39E6, symBinAddr: 0x4659E, symSize: 0x3C }
+  - { offset: 0x9BF0, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SULoadSectionsOperation$run', symObjAddr: 0x3A22, symBinAddr: 0x465DA, symSize: 0x3C }
+  - { offset: 0x9C1E, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SULoadSectionsOperation$run', symObjAddr: 0x3A22, symBinAddr: 0x465DA, symSize: 0x3C }
+  - { offset: 0x9C22, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SULoadSectionsOperation$_loadSectionsFromNetworkWithDictionary$', symObjAddr: 0x3A5E, symBinAddr: 0x46616, symSize: 0x88 }
+  - { offset: 0x9C50, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SULoadSectionsOperation$_loadSectionsFromNetworkWithDictionary$', symObjAddr: 0x3A5E, symBinAddr: 0x46616, symSize: 0x88 }
+  - { offset: 0x9C54, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SULoadSectionsOperation$_loadSectionsFromCacheForVersion$', symObjAddr: 0x3AE6, symBinAddr: 0x4669E, symSize: 0x7A }
+  - { offset: 0x9C91, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SULoadSectionsOperation$_loadSectionsFromCacheForVersion$', symObjAddr: 0x3AE6, symBinAddr: 0x4669E, symSize: 0x7A }
+  - { offset: 0x9C95, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SULoadSectionsOperation$_setSectionsResponse$', symObjAddr: 0x3B60, symBinAddr: 0x46718, symSize: 0x7A }
+  - { offset: 0x9CD2, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SULoadSectionsOperation$_setSectionsResponse$', symObjAddr: 0x3B60, symBinAddr: 0x46718, symSize: 0x7A }
+  - { offset: 0x9CD6, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SULoadSectionsOperation$setShouldUseCache$', symObjAddr: 0x3BDA, symBinAddr: 0x46792, symSize: 0x64 }
+  - { offset: 0x9D13, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SULoadSectionsOperation$setShouldUseCache$', symObjAddr: 0x3BDA, symBinAddr: 0x46792, symSize: 0x64 }
+  - { offset: 0x9D17, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUWebView$loadArchive$', symObjAddr: 0x3C3E, symBinAddr: 0x467F6, symSize: 0x90 }
+  - { offset: 0x9D54, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUWebView$loadArchive$', symObjAddr: 0x3C3E, symBinAddr: 0x467F6, symSize: 0x90 }
+  - { offset: 0x9D58, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUWebView$loadRequest$', symObjAddr: 0x3CCE, symBinAddr: 0x46886, symSize: 0xBC }
+  - { offset: 0x9D95, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUWebView$loadRequest$', symObjAddr: 0x3CCE, symBinAddr: 0x46886, symSize: 0xBC }
+  - { offset: 0x9D99, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUWebView$loadHTMLString$baseURL$', symObjAddr: 0x3D8A, symBinAddr: 0x46942, symSize: 0xD0 }
+  - { offset: 0x9DD6, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUWebView$loadHTMLString$baseURL$', symObjAddr: 0x3D8A, symBinAddr: 0x46942, symSize: 0xD0 }
+  - { offset: 0x9DDA, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUWebView$stopLoading', symObjAddr: 0x3E5A, symBinAddr: 0x46A12, symSize: 0x2E }
+  - { offset: 0x9E26, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUWebView$stopLoading', symObjAddr: 0x3E5A, symBinAddr: 0x46A12, symSize: 0x2E }
+  - { offset: 0x9E2A, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUScriptViewController$viewDidLoad', symObjAddr: 0x3E88, symBinAddr: 0x46A40, symSize: 0x2E }
+  - { offset: 0x9E58, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUScriptViewController$viewDidLoad', symObjAddr: 0x3E88, symBinAddr: 0x46A40, symSize: 0x2E }
+  - { offset: 0x9E5C, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUScriptViewController$viewWillAppear$', symObjAddr: 0x3EB6, symBinAddr: 0x46A6E, symSize: 0x36 }
+  - { offset: 0x9E8A, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUScriptViewController$viewWillAppear$', symObjAddr: 0x3EB6, symBinAddr: 0x46A6E, symSize: 0x36 }
+  - { offset: 0x9E8E, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUStorePageViewController$viewDidLoad', symObjAddr: 0x3EEC, symBinAddr: 0x46AA4, symSize: 0x2E }
+  - { offset: 0x9ECB, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUStorePageViewController$viewDidLoad', symObjAddr: 0x3EEC, symBinAddr: 0x46AA4, symSize: 0x2E }
+  - { offset: 0x9ECF, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUStorePageViewController$viewWillAppear$', symObjAddr: 0x3F1A, symBinAddr: 0x46AD2, symSize: 0x36 }
+  - { offset: 0x9EFD, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SUStorePageViewController$viewWillAppear$', symObjAddr: 0x3F1A, symBinAddr: 0x46AD2, symSize: 0x36 }
+  - { offset: 0x9F01, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$UIAlertView$show', symObjAddr: 0x3F50, symBinAddr: 0x46B08, symSize: 0x292 }
+  - { offset: 0x9F3E, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$UIAlertView$show', symObjAddr: 0x3F50, symBinAddr: 0x46B08, symSize: 0x292 }
+  - { offset: 0x9F42, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$UIWebView$loadRequest$', symObjAddr: 0x41E2, symBinAddr: 0x46D9A, symSize: 0xBC }
+  - { offset: 0x9F72, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$UIWebView$loadRequest$', symObjAddr: 0x41E2, symBinAddr: 0x46D9A, symSize: 0xBC }
+  - { offset: 0x9F76, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$UIWebView$loadHTMLString$baseURL$', symObjAddr: 0x429E, symBinAddr: 0x46E56, symSize: 0xD0 }
+  - { offset: 0x9FB3, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$UIWebView$loadHTMLString$baseURL$', symObjAddr: 0x429E, symBinAddr: 0x46E56, symSize: 0xD0 }
+  - { offset: 0x9FB7, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$MPMoviePlayerController$initWithContentURL$', symObjAddr: 0x436E, symBinAddr: 0x46F26, symSize: 0xDA }
+  - { offset: 0xA003, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$MPMoviePlayerController$initWithContentURL$', symObjAddr: 0x436E, symBinAddr: 0x46F26, symSize: 0xDA }
+  - { offset: 0xA007, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$MPMoviePlayerController$setContentURL$', symObjAddr: 0x4448, symBinAddr: 0x47000, symSize: 0xC8 }
+  - { offset: 0xA048, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$MPMoviePlayerController$setContentURL$', symObjAddr: 0x4448, symBinAddr: 0x47000, symSize: 0xC8 }
+  - { offset: 0xA04C, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$MPMoviePlayerController$play', symObjAddr: 0x4510, symBinAddr: 0x470C8, symSize: 0x2E }
+  - { offset: 0xA089, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$MPMoviePlayerController$play', symObjAddr: 0x4510, symBinAddr: 0x470C8, symSize: 0x2E }
+  - { offset: 0xA08D, size: 0x4, addend: 0x0, symName: '__logos_meta_method$_ungrouped$AVPlayer$playerWithURL$', symObjAddr: 0x453E, symBinAddr: 0x470F6, symSize: 0xDE }
+  - { offset: 0xA0BB, size: 0x4, addend: 0x0, symName: '__logos_meta_method$_ungrouped$AVPlayer$playerWithURL$', symObjAddr: 0x453E, symBinAddr: 0x470F6, symSize: 0xDE }
+  - { offset: 0xA0BF, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$AVPlayer$initWithURL$', symObjAddr: 0x461C, symBinAddr: 0x471D4, symSize: 0xDA }
+  - { offset: 0xA100, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$AVPlayer$initWithURL$', symObjAddr: 0x461C, symBinAddr: 0x471D4, symSize: 0xDA }
+  - { offset: 0xA104, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$AVPlayer$play', symObjAddr: 0x46F6, symBinAddr: 0x472AE, symSize: 0x2E }
+  - { offset: 0xA145, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$AVPlayer$play', symObjAddr: 0x46F6, symBinAddr: 0x472AE, symSize: 0x2E }
+  - { offset: 0xA149, size: 0x4, addend: 0x0, symName: '__logos_meta_method$_ungrouped$AVPlayerItem$playerItemWithURL$', symObjAddr: 0x4724, symBinAddr: 0x472DC, symSize: 0xDE }
+  - { offset: 0xA177, size: 0x4, addend: 0x0, symName: '__logos_meta_method$_ungrouped$AVPlayerItem$playerItemWithURL$', symObjAddr: 0x4724, symBinAddr: 0x472DC, symSize: 0xDE }
+  - { offset: 0xA17B, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$AVPlayerItem$initWithURL$', symObjAddr: 0x4802, symBinAddr: 0x473BA, symSize: 0xDA }
+  - { offset: 0xA1BC, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$AVPlayerItem$initWithURL$', symObjAddr: 0x4802, symBinAddr: 0x473BA, symSize: 0xDA }
+  - { offset: 0xA1C0, size: 0x4, addend: 0x0, symName: '__logos_meta_method$_ungrouped$AVURLAsset$URLAssetWithURL$options$', symObjAddr: 0x48DC, symBinAddr: 0x47494, symSize: 0x114 }
+  - { offset: 0xA201, size: 0x4, addend: 0x0, symName: '__logos_meta_method$_ungrouped$AVURLAsset$URLAssetWithURL$options$', symObjAddr: 0x48DC, symBinAddr: 0x47494, symSize: 0x114 }
+  - { offset: 0xA205, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$AVURLAsset$initWithURL$options$', symObjAddr: 0x49F0, symBinAddr: 0x475A8, symSize: 0x110 }
+  - { offset: 0xA268, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$AVURLAsset$initWithURL$options$', symObjAddr: 0x49F0, symBinAddr: 0x475A8, symSize: 0x110 }
+  - { offset: 0xA26C, size: 0x4, addend: 0x0, symName: '__logos_meta_method$_ungrouped$NSURLRequest$requestWithURL$', symObjAddr: 0x4B00, symBinAddr: 0x476B8, symSize: 0x162 }
+  - { offset: 0xA2CC, size: 0x4, addend: 0x0, symName: '__logos_meta_method$_ungrouped$NSURLRequest$requestWithURL$', symObjAddr: 0x4B00, symBinAddr: 0x476B8, symSize: 0x162 }
+  - { offset: 0xA2D0, size: 0x4, addend: 0x0, symName: '__logos_meta_method$_ungrouped$NSURLRequest$requestWithURL$cachePolicy$timeoutInterval$', symObjAddr: 0x4C62, symBinAddr: 0x4781A, symSize: 0x19E }
+  - { offset: 0xA313, size: 0x4, addend: 0x0, symName: '__logos_meta_method$_ungrouped$NSURLRequest$requestWithURL$cachePolicy$timeoutInterval$', symObjAddr: 0x4C62, symBinAddr: 0x4781A, symSize: 0x19E }
+  - { offset: 0xA317, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$NSURLRequest$initWithURL$', symObjAddr: 0x4E00, symBinAddr: 0x479B8, symSize: 0x162 }
+  - { offset: 0xA37B, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$NSURLRequest$initWithURL$', symObjAddr: 0x4E00, symBinAddr: 0x479B8, symSize: 0x162 }
+  - { offset: 0xA37F, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$NSURLRequest$initWithURL$cachePolicy$timeoutInterval$', symObjAddr: 0x4F62, symBinAddr: 0x47B1A, symSize: 0x19C }
+  - { offset: 0xA3C2, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$NSURLRequest$initWithURL$cachePolicy$timeoutInterval$', symObjAddr: 0x4F62, symBinAddr: 0x47B1A, symSize: 0x19C }
+  - { offset: 0xA3C6, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$NSMutableURLRequest$setURL$', symObjAddr: 0x50FE, symBinAddr: 0x47CB6, symSize: 0x150 }
+  - { offset: 0xA42A, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$NSMutableURLRequest$setURL$', symObjAddr: 0x50FE, symBinAddr: 0x47CB6, symSize: 0x150 }
+  - { offset: 0xA42E, size: 0x4, addend: 0x0, symName: '__logos_meta_method$_ungrouped$NSURLConnection$sendSynchronousRequest$returningResponse$error$', symObjAddr: 0x524E, symBinAddr: 0x47E06, symSize: 0x758 }
+  - { offset: 0xA46C, size: 0x4, addend: 0x0, symName: '__logos_meta_method$_ungrouped$NSURLConnection$sendSynchronousRequest$returningResponse$error$', symObjAddr: 0x524E, symBinAddr: 0x47E06, symSize: 0x758 }
+  - { offset: 0xA470, size: 0x4, addend: 0x0, symName: '__logos_meta_method$_ungrouped$NSURLConnection$connectionWithRequest$delegate$', symObjAddr: 0x59A6, symBinAddr: 0x4855E, symSize: 0x1CA }
+  - { offset: 0xA4F2, size: 0x4, addend: 0x0, symName: '__logos_meta_method$_ungrouped$NSURLConnection$connectionWithRequest$delegate$', symObjAddr: 0x59A6, symBinAddr: 0x4855E, symSize: 0x1CA }
+  - { offset: 0xA4F6, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$NSURLConnection$initWithRequest$delegate$', symObjAddr: 0x5B70, symBinAddr: 0x48728, symSize: 0x1CC }
+  - { offset: 0xA54A, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$NSURLConnection$initWithRequest$delegate$', symObjAddr: 0x5B70, symBinAddr: 0x48728, symSize: 0x1CC }
+  - { offset: 0xA54E, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$NSURLConnection$initWithRequest$delegate$startImmediately$', symObjAddr: 0x5D3C, symBinAddr: 0x488F4, symSize: 0x1EC }
+  - { offset: 0xA5A2, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$NSURLConnection$initWithRequest$delegate$startImmediately$', symObjAddr: 0x5D3C, symBinAddr: 0x488F4, symSize: 0x1EC }
+  - { offset: 0xA5A6, size: 0x4, addend: 0x0, symName: '__logos_meta_method$_ungrouped$AVAsset$assetWithURL$', symObjAddr: 0x5F28, symBinAddr: 0x48AE0, symSize: 0xDE }
+  - { offset: 0xA609, size: 0x4, addend: 0x0, symName: '__logos_meta_method$_ungrouped$AVAsset$assetWithURL$', symObjAddr: 0x5F28, symBinAddr: 0x48AE0, symSize: 0xDE }
+  - { offset: 0xA60D, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SSDownload$url', symObjAddr: 0x6006, symBinAddr: 0x48BBE, symSize: 0x20 }
+  - { offset: 0xA64E, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SSDownload$url', symObjAddr: 0x6006, symBinAddr: 0x48BBE, symSize: 0x20 }
+  - { offset: 0xA652, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SSDownload$resume', symObjAddr: 0x6026, symBinAddr: 0x48BDE, symSize: 0xBA }
+  - { offset: 0xA684, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SSDownload$resume', symObjAddr: 0x6026, symBinAddr: 0x48BDE, symSize: 0xBA }
+  - { offset: 0xA688, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SSDownload$stop', symObjAddr: 0x60E0, symBinAddr: 0x48C98, symSize: 0x2E }
+  - { offset: 0xA6C5, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SSDownload$stop', symObjAddr: 0x60E0, symBinAddr: 0x48C98, symSize: 0x2E }
+  - { offset: 0xA6C9, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SSDownload$setState$', symObjAddr: 0x610E, symBinAddr: 0x48CC6, symSize: 0xCA }
+  - { offset: 0xA6F7, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SSDownload$setState$', symObjAddr: 0x610E, symBinAddr: 0x48CC6, symSize: 0xCA }
+  - { offset: 0xA6FB, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$NSURLDownload$initWithRequest$delegate$', symObjAddr: 0x61D8, symBinAddr: 0x48D90, symSize: 0x15A }
+  - { offset: 0xA747, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$NSURLDownload$initWithRequest$delegate$', symObjAddr: 0x61D8, symBinAddr: 0x48D90, symSize: 0x15A }
+  - { offset: 0xA74B, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SSURLConnectionRequest$initWithRequest$', symObjAddr: 0x6332, symBinAddr: 0x48EEA, symSize: 0x252 }
+  - { offset: 0xA7B9, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SSURLConnectionRequest$initWithRequest$', symObjAddr: 0x6332, symBinAddr: 0x48EEA, symSize: 0x252 }
+  - { offset: 0xA7BD, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SSURLConnectionRequest$setRequest$', symObjAddr: 0x6584, symBinAddr: 0x4913C, symSize: 0x23E }
+  - { offset: 0xA81B, size: 0x4, addend: 0x0, symName: '__logos_method$_ungrouped$SSURLConnectionRequest$setRequest$', symObjAddr: 0x6584, symBinAddr: 0x4913C, symSize: 0x23E }
+  - { offset: 0xA81F, size: 0x4, addend: 0x0, symName: _podcastx_NSURLRequestAllowsAnyHTTPSCertificateForHost, symObjAddr: 0x67C2, symBinAddr: 0x4937A, symSize: 0xCE }
+  - { offset: 0xA879, size: 0x4, addend: 0x0, symName: _podcastx_NSURLRequestAllowsAnyHTTPSCertificateForHost, symObjAddr: 0x67C2, symBinAddr: 0x4937A, symSize: 0xCE }
+  - { offset: 0xA87D, size: 0x4, addend: 0x0, symName: _podcastx_NSURLConnectionAllowsAnyHTTPSCertificateForHost, symObjAddr: 0x6890, symBinAddr: 0x49448, symSize: 0xCE }
+  - { offset: 0xA8BE, size: 0x4, addend: 0x0, symName: _podcastx_NSURLConnectionAllowsAnyHTTPSCertificateForHost, symObjAddr: 0x6890, symBinAddr: 0x49448, symSize: 0xCE }
+  - { offset: 0xA8C2, size: 0x4, addend: 0x0, symName: _shouldRelaxHTTPSHost, symObjAddr: 0x695E, symBinAddr: 0x49516, symSize: 0x17C }
+  - { offset: 0xA903, size: 0x4, addend: 0x0, symName: _shouldRelaxHTTPSHost, symObjAddr: 0x695E, symBinAddr: 0x49516, symSize: 0x17C }
+  - { offset: 0xA907, size: 0x4, addend: 0x0, symName: __OSSwapInt16, symObjAddr: 0x6ADA, symBinAddr: 0x49692, symSize: 0x22 }
+  - { offset: 0xA939, size: 0x4, addend: 0x0, symName: __OSSwapInt16, symObjAddr: 0x6ADA, symBinAddr: 0x49692, symSize: 0x22 }
+  - { offset: 0xA93D, size: 0x4, addend: 0x0, symName: ___startProxyServer_block_invoke, symObjAddr: 0x6AFC, symBinAddr: 0x496B4, symSize: 0x24C }
+  - { offset: 0xA98E, size: 0x4, addend: 0x0, symName: ___startProxyServer_block_invoke_2, symObjAddr: 0x6D98, symBinAddr: 0x49950, symSize: 0x32 }
+  - { offset: 0xA992, size: 0x4, addend: 0x0, symName: ___startProxyServer_block_invoke_3, symObjAddr: 0x6DCA, symBinAddr: 0x49982, symSize: 0x36 }
+  - { offset: 0xA9B6, size: 0x4, addend: 0x0, symName: ___startProxyServer_block_invoke_3, symObjAddr: 0x6DCA, symBinAddr: 0x49982, symSize: 0x36 }
+  - { offset: 0xA9BA, size: 0x4, addend: 0x0, symName: _handleProxyClient, symObjAddr: 0x6E00, symBinAddr: 0x499B8, symSize: 0x165A }
+  - { offset: 0xAA1F, size: 0x4, addend: 0x0, symName: ___podcastxProxyPort_block_invoke, symObjAddr: 0x845A, symBinAddr: 0x4B012, symSize: 0x9E }
+  - { offset: 0xAA23, size: 0x4, addend: 0x0, symName: _queryValue, symObjAddr: 0x84F8, symBinAddr: 0x4B0B0, symSize: 0x1FA }
+  - { offset: 0xAA60, size: 0x4, addend: 0x0, symName: _queryValue, symObjAddr: 0x84F8, symBinAddr: 0x4B0B0, symSize: 0x1FA }
+  - { offset: 0xAA64, size: 0x4, addend: 0x0, symName: _sendAll, symObjAddr: 0x86F2, symBinAddr: 0x4B2AA, symSize: 0x82 }
+  - { offset: 0xAAD2, size: 0x4, addend: 0x0, symName: _sendAll, symObjAddr: 0x86F2, symBinAddr: 0x4B2AA, symSize: 0x82 }
+  - { offset: 0xAAD6, size: 0x4, addend: 0x0, symName: ___handleProxyClient_block_invoke, symObjAddr: 0x8774, symBinAddr: 0x4B32C, symSize: 0x32 }
+  - { offset: 0xAB3B, size: 0x4, addend: 0x0, symName: ___handleProxyClient_block_invoke, symObjAddr: 0x8774, symBinAddr: 0x4B32C, symSize: 0x32 }
+  - { offset: 0xAB3F, size: 0x4, addend: 0x0, symName: _urlDecode, symObjAddr: 0x87A6, symBinAddr: 0x4B35E, symSize: 0x62 }
+  - { offset: 0xAB63, size: 0x4, addend: 0x0, symName: _urlDecode, symObjAddr: 0x87A6, symBinAddr: 0x4B35E, symSize: 0x62 }
+  - { offset: 0xAB67, size: 0x4, addend: 0x0, symName: _logURLStringIfInteresting, symObjAddr: 0x8808, symBinAddr: 0x4B3C0, symSize: 0x11A }
+  - { offset: 0xAB8A, size: 0x4, addend: 0x0, symName: _logURLStringIfInteresting, symObjAddr: 0x8808, symBinAddr: 0x4B3C0, symSize: 0x11A }
+  - { offset: 0xAB8E, size: 0x4, addend: 0x0, symName: _fixedURLStringForCreation, symObjAddr: 0x8922, symBinAddr: 0x4B4DA, symSize: 0x428 }
+  - { offset: 0xABBC, size: 0x4, addend: 0x0, symName: _fixedURLStringForCreation, symObjAddr: 0x8922, symBinAddr: 0x4B4DA, symSize: 0x428 }
+  - { offset: 0xABC0, size: 0x4, addend: 0x0, symName: _isAudioURL, symObjAddr: 0x8D4A, symBinAddr: 0x4B902, symSize: 0x276 }
+  - { offset: 0xAC6A, size: 0x4, addend: 0x0, symName: _isAudioURL, symObjAddr: 0x8D4A, symBinAddr: 0x4B902, symSize: 0x276 }
+  - { offset: 0xAC6E, size: 0x4, addend: 0x0, symName: _isStoreURL, symObjAddr: 0x8FC0, symBinAddr: 0x4BB78, symSize: 0x4A4 }
+  - { offset: 0xACA2, size: 0x4, addend: 0x0, symName: _isStoreURL, symObjAddr: 0x8FC0, symBinAddr: 0x4BB78, symSize: 0x4A4 }
+  - { offset: 0xACA6, size: 0x4, addend: 0x0, symName: _isHTTPURL, symObjAddr: 0x9464, symBinAddr: 0x4C01C, symSize: 0x9A }
+  - { offset: 0xACDA, size: 0x4, addend: 0x0, symName: _isHTTPURL, symObjAddr: 0x9464, symBinAddr: 0x4C01C, symSize: 0x9A }
+  - { offset: 0xACDE, size: 0x4, addend: 0x0, symName: _repairMissingSlashAfterScheme, symObjAddr: 0x94FE, symBinAddr: 0x4C0B6, symSize: 0x2C6 }
+  - { offset: 0xAD10, size: 0x4, addend: 0x0, symName: _repairMissingSlashAfterScheme, symObjAddr: 0x94FE, symBinAddr: 0x4C0B6, symSize: 0x2C6 }
+  - { offset: 0xAD14, size: 0x4, addend: 0x0, symName: _isMZStaticArtworkURL, symObjAddr: 0x97C4, symBinAddr: 0x4C37C, symSize: 0x22E }
+  - { offset: 0xADE3, size: 0x4, addend: 0x0, symName: _isMZStaticArtworkURL, symObjAddr: 0x97C4, symBinAddr: 0x4C37C, symSize: 0x22E }
+  - { offset: 0xADE7, size: 0x4, addend: 0x0, symName: _feedOrArtworkProxyURL, symObjAddr: 0x99F2, symBinAddr: 0x4C5AA, symSize: 0x19A }
+  - { offset: 0xAE1B, size: 0x4, addend: 0x0, symName: _feedOrArtworkProxyURL, symObjAddr: 0x99F2, symBinAddr: 0x4C5AA, symSize: 0x19A }
+  - { offset: 0xAE1F, size: 0x4, addend: 0x0, symName: _isFeedOrArtworkURL, symObjAddr: 0x9B8C, symBinAddr: 0x4C744, symSize: 0x4E0 }
+  - { offset: 0xAE60, size: 0x4, addend: 0x0, symName: _isFeedOrArtworkURL, symObjAddr: 0x9B8C, symBinAddr: 0x4C744, symSize: 0x4E0 }
+  - { offset: 0xAE64, size: 0x4, addend: 0x0, symName: _isDownloadableMediaURL, symObjAddr: 0xA06C, symBinAddr: 0x4CC24, symSize: 0x4C4 }
+  - { offset: 0xAE98, size: 0x4, addend: 0x0, symName: _isDownloadableMediaURL, symObjAddr: 0xA06C, symBinAddr: 0x4CC24, symSize: 0x4C4 }
+  - { offset: 0xAE9C, size: 0x4, addend: 0x0, symName: _localProxyURLForURL, symObjAddr: 0xA530, symBinAddr: 0x4D0E8, symSize: 0x3B6 }
+  - { offset: 0xAEE0, size: 0x4, addend: 0x0, symName: _localProxyURLForURL, symObjAddr: 0xA530, symBinAddr: 0x4D0E8, symSize: 0x3B6 }
+  - { offset: 0xAEE4, size: 0x4, addend: 0x0, symName: _isMegaphoneTrafficURL, symObjAddr: 0xA8E6, symBinAddr: 0x4D49E, symSize: 0x82 }
+  - { offset: 0xAF88, size: 0x4, addend: 0x0, symName: _isMegaphoneTrafficURL, symObjAddr: 0xA8E6, symBinAddr: 0x4D49E, symSize: 0x82 }
+  - { offset: 0xAF8C, size: 0x4, addend: 0x0, symName: _isMegaphoneResolvedURL, symObjAddr: 0xA968, symBinAddr: 0x4D520, symSize: 0xBA }
+  - { offset: 0xAFBE, size: 0x4, addend: 0x0, symName: _isMegaphoneResolvedURL, symObjAddr: 0xA968, symBinAddr: 0x4D520, symSize: 0xBA }
+  - { offset: 0xAFC2, size: 0x4, addend: 0x0, symName: _isAcastSphinxURL, symObjAddr: 0xAA22, symBinAddr: 0x4D5DA, symSize: 0x82 }
+  - { offset: 0xAFF4, size: 0x4, addend: 0x0, symName: _isAcastSphinxURL, symObjAddr: 0xAA22, symBinAddr: 0x4D5DA, symSize: 0x82 }
+  - { offset: 0xAFF8, size: 0x4, addend: 0x0, symName: _isMacRelayedMediaURL, symObjAddr: 0xAAA4, symBinAddr: 0x4D65C, symSize: 0x14E }
+  - { offset: 0xB02A, size: 0x4, addend: 0x0, symName: _isMacRelayedMediaURL, symObjAddr: 0xAAA4, symBinAddr: 0x4D65C, symSize: 0x14E }
+  - { offset: 0xB02E, size: 0x4, addend: 0x0, symName: _fixedPlaybackURL, symObjAddr: 0xABF2, symBinAddr: 0x4D7AA, symSize: 0x1FC }
+  - { offset: 0xB060, size: 0x4, addend: 0x0, symName: _fixedPlaybackURL, symObjAddr: 0xABF2, symBinAddr: 0x4D7AA, symSize: 0x1FC }
+  - { offset: 0xB064, size: 0x4, addend: 0x0, symName: _directMediaURLFromAnchorPlayURL, symObjAddr: 0xADEE, symBinAddr: 0x4D9A6, symSize: 0x382 }
+  - { offset: 0xB0C4, size: 0x4, addend: 0x0, symName: _directMediaURLFromAnchorPlayURL, symObjAddr: 0xADEE, symBinAddr: 0x4D9A6, symSize: 0x382 }
+  - { offset: 0xB0C8, size: 0x4, addend: 0x0, symName: _resolvedKnownHostPlaybackURL, symObjAddr: 0xB170, symBinAddr: 0x4DD28, symSize: 0x490 }
+  - { offset: 0xB15C, size: 0x4, addend: 0x0, symName: _resolvedKnownHostPlaybackURL, symObjAddr: 0xB170, symBinAddr: 0x4DD28, symSize: 0x490 }
+  - { offset: 0xB160, size: 0x4, addend: 0x0, symName: _decodedURLComponent, symObjAddr: 0xB600, symBinAddr: 0x4E1B8, symSize: 0x68 }
+  - { offset: 0xB1E4, size: 0x4, addend: 0x0, symName: _decodedURLComponent, symObjAddr: 0xB600, symBinAddr: 0x4E1B8, symSize: 0x68 }
+  - { offset: 0xB1E8, size: 0x4, addend: 0x0, symName: _resolvedAcastPlaybackURL, symObjAddr: 0xB668, symBinAddr: 0x4E220, symSize: 0x218 }
+  - { offset: 0xB21A, size: 0x4, addend: 0x0, symName: _resolvedAcastPlaybackURL, symObjAddr: 0xB668, symBinAddr: 0x4E220, symSize: 0x218 }
+  - { offset: 0xB21E, size: 0x4, addend: 0x0, symName: _resolvedMegaphonePlaybackURL, symObjAddr: 0xB880, symBinAddr: 0x4E438, symSize: 0x256 }
+  - { offset: 0xB291, size: 0x4, addend: 0x0, symName: _resolvedMegaphonePlaybackURL, symObjAddr: 0xB880, symBinAddr: 0x4E438, symSize: 0x256 }
+  - { offset: 0xB295, size: 0x4, addend: 0x0, symName: _resolvedMacRelayedMediaURL, symObjAddr: 0xBAD6, symBinAddr: 0x4E68E, symSize: 0x50 }
+  - { offset: 0xB2E9, size: 0x4, addend: 0x0, symName: _resolvedMacRelayedMediaURL, symObjAddr: 0xBAD6, symBinAddr: 0x4E68E, symSize: 0x50 }
+  - { offset: 0xB2ED, size: 0x4, addend: 0x0, symName: _stringByReplacingPrefix, symObjAddr: 0xBB26, symBinAddr: 0x4E6DE, symSize: 0xE2 }
+  - { offset: 0xB31F, size: 0x4, addend: 0x0, symName: _stringByReplacingPrefix, symObjAddr: 0xBB26, symBinAddr: 0x4E6DE, symSize: 0xE2 }
+  - { offset: 0xB364, size: 0x4, addend: 0x0, symName: _firstRedirectURLForURL, symObjAddr: 0xBC08, symBinAddr: 0x4E7C0, symSize: 0x440 }
+  - { offset: 0xB368, size: 0x4, addend: 0x0, symName: _mergedAssetOptions, symObjAddr: 0xC048, symBinAddr: 0x4EC00, symSize: 0x192 }
+  - { offset: 0xB3DC, size: 0x4, addend: 0x0, symName: _mergedAssetOptions, symObjAddr: 0xC048, symBinAddr: 0x4EC00, symSize: 0x192 }
+  - { offset: 0xB3E0, size: 0x4, addend: 0x0, symName: _assetOptionsForURL, symObjAddr: 0xC1DA, symBinAddr: 0x4ED92, symSize: 0x1A2 }
+  - { offset: 0xB431, size: 0x4, addend: 0x0, symName: _assetOptionsForURL, symObjAddr: 0xC1DA, symBinAddr: 0x4ED92, symSize: 0x1A2 }
+  - { offset: 0xB435, size: 0x4, addend: 0x0, symName: _fixedRequestURL, symObjAddr: 0xC37C, symBinAddr: 0x4EF34, symSize: 0x14C }
+  - { offset: 0xB476, size: 0x4, addend: 0x0, symName: _fixedRequestURL, symObjAddr: 0xC37C, symBinAddr: 0x4EF34, symSize: 0x14C }
+  - { offset: 0xB47A, size: 0x4, addend: 0x0, symName: _fixedDownloadURL, symObjAddr: 0xC4C8, symBinAddr: 0x4F080, symSize: 0x458 }
+  - { offset: 0xB4EE, size: 0x4, addend: 0x0, symName: _fixedDownloadURL, symObjAddr: 0xC4C8, symBinAddr: 0x4F080, symSize: 0x458 }
+  - { offset: 0xB4F2, size: 0x4, addend: 0x0, symName: _megaphoneCachedHostURL, symObjAddr: 0xC920, symBinAddr: 0x4F4D8, symSize: 0x270 }
+  - { offset: 0xB58C, size: 0x4, addend: 0x0, symName: _megaphoneCachedHostURL, symObjAddr: 0xC920, symBinAddr: 0x4F4D8, symSize: 0x270 }
+  - { offset: 0xBB93, size: 0x4, addend: 0x0, symName: _TLSRelayFetch, symObjAddr: 0x0, symBinAddr: 0x4F748, symSize: 0x492 }
+  - { offset: 0xBD07, size: 0x4, addend: 0x0, symName: _TLSRelayFetch, symObjAddr: 0x0, symBinAddr: 0x4F748, symSize: 0x492 }
+  - { offset: 0xBD0B, size: 0x4, addend: 0x0, symName: _TLSRelayUnwrapTrackerURL, symObjAddr: 0x492, symBinAddr: 0x4FBDA, symSize: 0x6C0 }
+  - { offset: 0xBE91, size: 0x4, addend: 0x0, symName: _TLSRelayUnwrapTrackerURL, symObjAddr: 0x492, symBinAddr: 0x4FBDA, symSize: 0x6C0 }
+  - { offset: 0xBE95, size: 0x4, addend: 0x0, symName: _TLSRelayFetchOne, symObjAddr: 0xB52, symBinAddr: 0x5029A, symSize: 0x14B0 }
+  - { offset: 0xC00F, size: 0x4, addend: 0x0, symName: _TLSRelayFetchOne, symObjAddr: 0xB52, symBinAddr: 0x5029A, symSize: 0x14B0 }
+  - { offset: 0xC013, size: 0x4, addend: 0x0, symName: _TLSRelayLog, symObjAddr: 0x2002, symBinAddr: 0x5174A, symSize: 0x182 }
+  - { offset: 0xC5B9, size: 0x4, addend: 0x0, symName: _TLSRelayLog, symObjAddr: 0x2002, symBinAddr: 0x5174A, symSize: 0x182 }
+  - { offset: 0xC5BD, size: 0x4, addend: 0x0, symName: _TLSRelayStreamToClient, symObjAddr: 0x2184, symBinAddr: 0x518CC, symSize: 0x1A58 }
+  - { offset: 0xC613, size: 0x4, addend: 0x0, symName: _TLSRelayStreamToClient, symObjAddr: 0x2184, symBinAddr: 0x518CC, symSize: 0x1A58 }
+  - { offset: 0xC617, size: 0x4, addend: 0x0, symName: _TLSRelayRequestTargetForURL, symObjAddr: 0x3BDC, symBinAddr: 0x53324, symSize: 0x2F0 }
+  - { offset: 0xCC08, size: 0x4, addend: 0x0, symName: _TLSRelayRequestTargetForURL, symObjAddr: 0x3BDC, symBinAddr: 0x53324, symSize: 0x2F0 }
+  - { offset: 0xCC0C, size: 0x4, addend: 0x0, symName: _TLSRelayWriteAllUpstream, symObjAddr: 0x3ECC, symBinAddr: 0x53614, symSize: 0x88 }
+  - { offset: 0xCCCB, size: 0x4, addend: 0x0, symName: _TLSRelayWriteAllUpstream, symObjAddr: 0x3ECC, symBinAddr: 0x53614, symSize: 0x88 }
+  - { offset: 0xCCCF, size: 0x4, addend: 0x0, symName: _TLSRelayReadSome, symObjAddr: 0x3F54, symBinAddr: 0x5369C, symSize: 0x52 }
+  - { offset: 0xCD4E, size: 0x4, addend: 0x0, symName: _TLSRelayReadSome, symObjAddr: 0x3F54, symBinAddr: 0x5369C, symSize: 0x52 }
+  - { offset: 0xCD52, size: 0x4, addend: 0x0, symName: _TLSRelayHTTPReason, symObjAddr: 0x3FA6, symBinAddr: 0x536EE, symSize: 0x196 }
+  - { offset: 0xCDC3, size: 0x4, addend: 0x0, symName: _TLSRelayHTTPReason, symObjAddr: 0x3FA6, symBinAddr: 0x536EE, symSize: 0x196 }
+  - { offset: 0xCDC7, size: 0x4, addend: 0x0, symName: _TLSRelaySendAllFD, symObjAddr: 0x413C, symBinAddr: 0x53884, symSize: 0x56 }
+  - { offset: 0xCDE8, size: 0x4, addend: 0x0, symName: _TLSRelaySendAllFD, symObjAddr: 0x413C, symBinAddr: 0x53884, symSize: 0x56 }
+  - { offset: 0xCDEC, size: 0x4, addend: 0x0, symName: _TLSRelayReadAll, symObjAddr: 0x4192, symBinAddr: 0x538DA, symSize: 0x2AC }
+  - { offset: 0xCE5D, size: 0x4, addend: 0x0, symName: _TLSRelayReadAll, symObjAddr: 0x4192, symBinAddr: 0x538DA, symSize: 0x2AC }
+  - { offset: 0xCE61, size: 0x4, addend: 0x0, symName: _TLSRelayDecodeChunked, symObjAddr: 0x443E, symBinAddr: 0x53B86, symSize: 0x29E }
+  - { offset: 0xCF91, size: 0x4, addend: 0x0, symName: _TLSRelayDecodeChunked, symObjAddr: 0x443E, symBinAddr: 0x53B86, symSize: 0x29E }
+...
