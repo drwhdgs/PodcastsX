@@ -1,0 +1,14 @@
+Package: com.devbyandru.podcastsx
+Name: PodcastsX
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Fixes Podcasts on iOS 6!
+Maintainer: Andrew Hodges
+Author: Andrew Hodges
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.devbyandru.podcastsx_0.0.1-4+debug_iphoneos-arm.deb
+Size: 271468
+MD5sum: 61d5bf2653228fc04b018af43fd168a4
+SHA256: 43dfe0651a2edd649803394d5d856dd397e2a48a9ac062be221a49a397fcaaa7
+
