@@ -8,7 +8,7 @@ TWEAK_NAME = PodcastsX
 
 MBEDTLS_DIR = $(PWD)/../vendor/mbedtls-armv7
 
-PodcastsX_FILES = Tweak.x TLSRelay.m
+PodcastsX_FILES = Tweak/Tweak.x Relay/TLSRelay.m
 PodcastsX_CFLAGS = -fobjc-arc -I$(MBEDTLS_DIR)/include
 PodcastsX_LDFLAGS = -framework Security -framework CFNetwork \
                    -L$(MBEDTLS_DIR)/lib -lmbedtls -lmbedx509 -lmbedcrypto
